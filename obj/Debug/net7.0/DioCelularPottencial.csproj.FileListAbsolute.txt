@@ -1,0 +1,15 @@
+/home/keyson/Documentos/git/DioCelularPottencial/obj/Debug/net7.0/DioCelularPottencial.csproj.AssemblyReference.cache
+/home/keyson/Documentos/git/DioCelularPottencial/obj/Debug/net7.0/DioCelularPottencial.GeneratedMSBuildEditorConfig.editorconfig
+/home/keyson/Documentos/git/DioCelularPottencial/obj/Debug/net7.0/DioCelularPottencial.AssemblyInfoInputs.cache
+/home/keyson/Documentos/git/DioCelularPottencial/obj/Debug/net7.0/DioCelularPottencial.AssemblyInfo.cs
+/home/keyson/Documentos/git/DioCelularPottencial/obj/Debug/net7.0/DioCelularPottencial.csproj.CoreCompileInputs.cache
+/home/keyson/Documentos/git/DioCelularPottencial/bin/Debug/net7.0/DioCelularPottencial
+/home/keyson/Documentos/git/DioCelularPottencial/bin/Debug/net7.0/DioCelularPottencial.deps.json
+/home/keyson/Documentos/git/DioCelularPottencial/bin/Debug/net7.0/DioCelularPottencial.runtimeconfig.json
+/home/keyson/Documentos/git/DioCelularPottencial/bin/Debug/net7.0/DioCelularPottencial.dll
+/home/keyson/Documentos/git/DioCelularPottencial/bin/Debug/net7.0/DioCelularPottencial.pdb
+/home/keyson/Documentos/git/DioCelularPottencial/obj/Debug/net7.0/DioCelularPottencial.dll
+/home/keyson/Documentos/git/DioCelularPottencial/obj/Debug/net7.0/refint/DioCelularPottencial.dll
+/home/keyson/Documentos/git/DioCelularPottencial/obj/Debug/net7.0/DioCelularPottencial.pdb
+/home/keyson/Documentos/git/DioCelularPottencial/obj/Debug/net7.0/DioCelularPottencial.genruntimeconfig.cache
+/home/keyson/Documentos/git/DioCelularPottencial/obj/Debug/net7.0/ref/DioCelularPottencial.dll
